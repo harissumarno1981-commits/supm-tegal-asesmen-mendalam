@@ -1,0 +1,8 @@
+{
+  "name": "SUPM TEGAL ASESMEN MENDALAM",
+  "description": "Aplikasi generator asesmen pembelajaran SMK berbasis Taksonomi SOLO untuk SUPM Tegal (Diagnostik, Formatif, Sumatif) dengan kisi-kisi, naskah soal, kunci jawaban, dan rubrik terpisah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
